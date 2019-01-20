@@ -5,7 +5,7 @@ The MNIST database of handwritten digits, has a training set of 60,000 28x28 gra
 Sample images from MNIST test dataset:<br/>
 ![github-small](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
 ## Image classification CNN model on MNIST dataset
-The model consists of 2 convolutional layers which are followed by maxpooling layers.The output of these layers is then flattened and fed into the dense layers which give the final output.<br/><br/>
+The model consists of 2 convolutional layers which are followed by maxpooling layers.The output of these layers is then flattened and fed into the dense layers which give the final output.
 ## Train and Test accuracy
 Train accuracy: 99.66%<br/>
 Test accuracy: 99.12%<br/>
